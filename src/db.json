@@ -1,0 +1,602 @@
+{
+  "users": [
+    {
+      "id": "bd5c",
+      "name": "sidha",
+      "email": "sidha@gmail.com",
+      "password": "123456789",
+      "cpassword": "123456789",
+      "role": "admin",
+      "cart": [],
+      "orders": [
+        {
+          "id": "105",
+          "name": "Wayfair",
+          "description": "Luxury king size bed with premium comfort.",
+          "price": "₹29700",
+          "image": "https://i.pinimg.com/736x/2e/a2/fe/2ea2fe400ba1e8b6d86a0bcc2c689afb.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "106",
+          "name": "Dreamline Bed",
+          "description": "Perfect for relaxing, this bed ensures restful and cozy nights.",
+          "price": "₹35700",
+          "image": "https://i.pinimg.com/736x/8f/b8/80/8fb880b0c0492f7368a8948f73766346.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "108",
+          "name": "Timeless Comfort Bed",
+          "description": "A durable bed with a sleek design, ideal for any home.",
+          "price": "₹25700",
+          "image": "https://i.pinimg.com/736x/7f/be/8f/7fbe8f5a07ee87b741cd7fc6e0321e09.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "204",
+          "name": "Recliner Sofa",
+          "description": "Comfortable recliner sofa for ultimate relaxation.",
+          "price": "₹33700",
+          "image": "https://i.pinimg.com/736x/90/35/c5/9035c565366fdd1dcc385b7c439607ea.jpg",
+          "category": "Sofa"
+        },
+        {
+          "id": "401",
+          "name": "Coffee Table",
+          "description": "Compact coffee table with storage options.",
+          "price": "₹25700",
+          "image": "https://i.pinimg.com/736x/8e/eb/ce/8eebce69f4db480408bfaa22c830b0f5.jpg",
+          "category": "Table"
+        },
+        {
+          "id": "104",
+          "name": "LitCoffre",
+          "description": "Lit Coffre design effect laiton dalia.",
+          "price": "₹65700",
+          "image": "https://i.pinimg.com/736x/01/63/86/0163864a3e2d80708a6b100f7ac13b9c.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "106",
+          "name": "Dreamline Bed",
+          "description": "Perfect for relaxing, this bed ensures restful and cozy nights.",
+          "price": "₹35700",
+          "image": "https://i.pinimg.com/736x/8f/b8/80/8fb880b0c0492f7368a8948f73766346.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "105",
+          "name": "Wayfair",
+          "description": "Luxury king size bed with premium comfort.",
+          "price": "₹29700",
+          "image": "https://i.pinimg.com/736x/00/72/95/007295dc9304d3907cf2af162200480c.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "303",
+          "name": "Rocking Chair",
+          "description": "Classic wooden rocking chair for relaxation.",
+          "price": "₹43700",
+          "image": "https://i.pinimg.com/736x/03/77/b4/0377b4a1f0b2c46b3bff1dc495226d06.jpg",
+          "category": "Chair"
+        },
+        {
+          "id": "405",
+          "name": "Side Table",
+          "description": "A compact table placed beside a bed, sofa, or chair, often used to hold lamps, books, or personal items.",
+          "price": "₹25700",
+          "image": "https://i.pinimg.com/736x/b3/07/b5/b307b5bd1f48c2d7ac91160c025a22f7.jpg",
+          "category": "Table"
+        },
+        {
+          "id": "106",
+          "name": "Dreamline Bed",
+          "description": "Perfect for relaxing, this bed ensures restful and cozy nights.",
+          "price": "₹35700",
+          "image": "https://i.pinimg.com/736x/8f/b8/80/8fb880b0c0492f7368a8948f73766346.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "401",
+          "name": "Coffee Table",
+          "description": "Compact coffee table with storage options.",
+          "price": "₹25700",
+          "image": "https://i.pinimg.com/736x/8e/eb/ce/8eebce69f4db480408bfaa22c830b0f5.jpg",
+          "category": "Table"
+        }
+      ],
+      "isLogged": true
+    },
+    {
+      "id": "cfb7",
+      "name": "Athulya das",
+      "email": "vachuayush@gmail.com",
+      "password": "12345678",
+      "cpassword": "12345678",
+      "role": "user",
+      "isLogged": true
+    },
+    {
+      "id": "3f0d",
+      "name": "naveen",
+      "email": "naveen@gmail.com",
+      "password": "naveen",
+      "cpassword": "naveen",
+      "cart": [],
+      "orders": [
+        {
+          "id": "105",
+          "name": "Wayfair",
+          "description": "Luxury king size bed with premium comfort.",
+          "price": "₹29700",
+          "image": "https://i.pinimg.com/736x/2e/a2/fe/2ea2fe400ba1e8b6d86a0bcc2c689afb.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "302",
+          "name": "Dining Chair",
+          "description": "Stylish dining chair with cushioned seating.",
+          "price": "₹55700",
+          "image": "https://i.pinimg.com/736x/28/df/20/28df205d723546bccd23d6831a5f6d4e.jpg",
+          "category": "Chair"
+        },
+        {
+          "id": "105",
+          "name": "Wayfair",
+          "description": "Luxury king size bed with premium comfort.",
+          "price": "₹29700",
+          "image": "https://i.pinimg.com/736x/00/72/95/007295dc9304d3907cf2af162200480c.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "401",
+          "name": "Coffee Table",
+          "description": "Compact coffee table with storage options.",
+          "price": "₹25700",
+          "image": "https://i.pinimg.com/736x/8e/eb/ce/8eebce69f4db480408bfaa22c830b0f5.jpg",
+          "category": "Table"
+        },
+        {
+          "id": "404",
+          "name": "Console Table",
+          "description": "Elegant console table for entryways.",
+          "price": "₹25700",
+          "image": "https://i.pinimg.com/736x/cf/39/77/cf3977c15448d6c78a3dc386e4d92584.jpg",
+          "category": "Table"
+        },
+        {
+          "id": "106",
+          "name": "Dreamline Bed",
+          "description": "Perfect for relaxing, this bed ensures restful and cozy nights.",
+          "price": "₹35700",
+          "image": "https://i.pinimg.com/736x/8f/b8/80/8fb880b0c0492f7368a8948f73766346.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "308",
+          "name": "Couch Chair",
+          "description": "Lightweight and portable, these chairs can be folded for easy storage and are ideal for events or small spaces.",
+          "price": "₹25700",
+          "image": "https://i.pinimg.com/736x/74/15/ec/7415ecdeafe87632d5fd6c71f9e23900.jpg",
+          "category": "Chair"
+        },
+        {
+          "id": "104",
+          "name": "LitCoffre",
+          "description": "Lit Coffre design effect laiton dalia.",
+          "price": "₹65700",
+          "image": "https://i.pinimg.com/736x/01/63/86/0163864a3e2d80708a6b100f7ac13b9c.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "401",
+          "name": "Coffee Table",
+          "description": "Compact coffee table with storage options.",
+          "price": "₹25700",
+          "image": "https://i.pinimg.com/736x/8e/eb/ce/8eebce69f4db480408bfaa22c830b0f5.jpg",
+          "category": "Table"
+        }
+      ],
+      "isLogged": true
+    },
+    {
+      "id": "ff60",
+      "name": "Athulya das",
+      "email": "athulyadas005@gmail.com",
+      "password": "1234567890",
+      "cpassword": "1234567890",
+      "cart": [],
+      "orders": [
+        {
+          "id": "207",
+          "name": "Relaxation Sofa",
+          "description": "Comfortable recliner sofa for ultimate relaxation.",
+          "price": "₹75700",
+          "image": "https://i.pinimg.com/736x/b0/df/f3/b0dff31a55da5a965104330fc8df5dcc.jpg",
+          "category": "Sofa"
+        }
+      ]
+    },
+    {
+      "id": "1639",
+      "name": "ambili",
+      "email": "ambilidas@gmail.com",
+      "password": "0987654321",
+      "cpassword": "0987654321",
+      "cart": [],
+      "orders": [],
+      "isLogged": true
+    },
+    {
+      "id": "a57d",
+      "name": "neha",
+      "email": "neha123@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "cart": [],
+      "orders": [
+        {
+          "id": "202",
+          "name": "Loveseat Sofa",
+          "description": "Compact loveseat sofa for small spaces.",
+          "price": "₹77700",
+          "image": "https://i.pinimg.com/736x/60/bd/0f/60bd0f1f1efb1b1a5bca96f6c5de9a2a.jpg",
+          "category": "Sofa"
+        },
+        {
+          "id": "201",
+          "name": "Sectional Sofa",
+          "description": "Spacious sectional sofa for your living room.",
+          "price": "₹34700",
+          "image": "https://i.pinimg.com/736x/59/67/92/5967929874911ac5a93adb18a8f95835.jpg",
+          "category": "Sofa"
+        },
+        {
+          "id": "105",
+          "name": "Wayfair",
+          "description": "Luxury king size bed with premium comfort.",
+          "price": "₹29700",
+          "image": "https://i.pinimg.com/736x/00/72/95/007295dc9304d3907cf2af162200480c.jpg",
+          "category": "Bed"
+        }
+      ],
+      "isLogged": true
+    },
+    {
+      "id": "d22b",
+      "name": "shamna",
+      "email": "shamna123@gmail.com",
+      "password": "123456789",
+      "cpassword": "123456789",
+      "cart": [],
+      "orders": [
+        {
+          "id": "403",
+          "name": "Study Table",
+          "description": "Minimalist study table with ample workspace.",
+          "price": "₹25700",
+          "image": "https://i.pinimg.com/736x/48/55/14/48551496a01d2ea594d94787eca8208d.jpg",
+          "category": "Table"
+        },
+        {
+          "id": "106",
+          "name": "Dreamline Bed",
+          "description": "Perfect for relaxing, this bed ensures restful and cozy nights.",
+          "price": "₹35700",
+          "image": "https://i.pinimg.com/736x/8f/b8/80/8fb880b0c0492f7368a8948f73766346.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "105",
+          "name": "Wayfair",
+          "description": "Luxury king size bed with premium comfort.",
+          "price": "₹29700",
+          "image": "https://i.pinimg.com/736x/00/72/95/007295dc9304d3907cf2af162200480c.jpg",
+          "category": "Bed"
+        },
+        {
+          "id": "202",
+          "name": "Love seat Sofa",
+          "description": "Compact loveseat sofa for small spaces.",
+          "price": "₹37000",
+          "image": "https://i.pinimg.com/736x/60/bd/0f/60bd0f1f1efb1b1a5bca96f6c5de9a2a.jpg",
+          "category": "Sofa"
+        }
+      ],
+      "isLogged": true
+    },
+    {
+      "id": "cda5",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "0987654321",
+      "cpassword": "0987654321",
+      "cart": [],
+      "orders": [
+        {
+          "id": "403",
+          "name": "Study Table",
+          "description": "Minimalist study table with ample workspace.",
+          "price": "₹25700",
+          "image": "https://i.pinimg.com/736x/48/55/14/48551496a01d2ea594d94787eca8208d.jpg",
+          "category": "Table"
+        }
+      ]
+    },
+    {
+      "id": "4e7a",
+      "username": "jabeel",
+      "email": "jabeel@gmail.com",
+      "password": "jabeel",
+      "isAdmin": false,
+      "isLogged": true
+    }
+  ],
+  "products": [
+    {
+      "id": "105",
+      "name": "Wayfair",
+      "description": "Luxury king size bed with premium comfort.",
+      "price": "₹35000",
+      "image": "https://i.pinimg.com/736x/00/72/95/007295dc9304d3907cf2af162200480c.jpg",
+      "category": "Bed"
+    },
+    {
+      "id": "106",
+      "name": "Dreamline Bed",
+      "description": "Perfect for relaxing, this bed ensures restful and cozy nights.",
+      "price": "₹35700",
+      "image": "https://i.pinimg.com/736x/8f/b8/80/8fb880b0c0492f7368a8948f73766346.jpg",
+      "category": "Bed"
+    },
+    {
+      "id": "107",
+      "name": "Classic Sleep Bed",
+      "description": "This bed combines style and comfort for a perfect sleep experience.",
+      "price": "₹65700",
+      "image": "https://i.pinimg.com/736x/fb/55/b7/fb55b77519bc60f2348e578ad1619c32.jpg",
+      "category": "Bed"
+    },
+    {
+      "id": "108",
+      "name": "Timeless Comfort Bed",
+      "description": "A durable bed with a sleek design, ideal for any home.",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/7f/be/8f/7fbe8f5a07ee87b741cd7fc6e0321e09.jpg",
+      "category": "Bed"
+    },
+    {
+      "id": "201",
+      "name": "Sectional Sofa",
+      "description": "Spacious sectional sofa for your living room.",
+      "price": "₹34700",
+      "image": "https://i.pinimg.com/736x/59/67/92/5967929874911ac5a93adb18a8f95835.jpg",
+      "category": "Sofa"
+    },
+    {
+      "id": "202",
+      "name": "Love seat Sofa",
+      "description": "Compact loveseat sofa for small spaces.",
+      "price": "₹37000",
+      "image": "https://i.pinimg.com/736x/60/bd/0f/60bd0f1f1efb1b1a5bca96f6c5de9a2a.jpg",
+      "category": "Sofa"
+    },
+    {
+      "id": "203",
+      "name": "Cozy Sofa",
+      "description": "Modern Cozy Living Room Sofa.",
+      "price": "₹65700",
+      "image": "https://i.pinimg.com/736x/95/a9/b2/95a9b2d54c631011ec6dbf735c714c46.jpg",
+      "category": "Sofa"
+    },
+    {
+      "id": "204",
+      "name": "Recliner Sofa",
+      "description": "Comfortable recliner sofa for ultimate relaxation.",
+      "price": "₹33700",
+      "image": "https://i.pinimg.com/736x/90/35/c5/9035c565366fdd1dcc385b7c439607ea.jpg",
+      "category": "Sofa"
+    },
+    {
+      "id": "205",
+      "name": "Modern Living Sofa",
+      "description": "Comfortable recliner sofa for ultimate relaxation.",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/65/61/a1/6561a1e9a96be9c08bf810a786e18be0.jpg",
+      "category": "Sofa"
+    },
+    {
+      "id": "206",
+      "name": "Elegant Lounge Sofa",
+      "description": "Comfortable recliner sofa for ultimate relaxation.",
+      "price": "₹55700",
+      "image": "https://i.pinimg.com/736x/5f/35/cf/5f35cf2c8eddb603544b10cb20268520.jpg",
+      "category": "Sofa"
+    },
+    {
+      "id": "207",
+      "name": "Relaxation Sofa",
+      "description": "Comfortable recliner sofa for ultimate relaxation.",
+      "price": "₹75700",
+      "image": "https://i.pinimg.com/736x/b0/df/f3/b0dff31a55da5a965104330fc8df5dcc.jpg",
+      "category": "Sofa"
+    },
+    {
+      "id": "208",
+      "name": "Sleek Comfort Sofa",
+      "description": "Comfortable recliner sofa for ultimate relaxation.",
+      "price": "₹55700",
+      "image": "https://i.pinimg.com/736x/a7/5a/ba/a75abab004ccb801cb016c48f70ef774.jpg",
+      "category": "Sofa"
+    },
+    {
+      "id": "301",
+      "name": "Office Chair",
+      "description": "Ergonomic office chair with adjustable height.",
+      "price": "₹28700",
+      "image": "https://i.pinimg.com/736x/4c/5e/09/4c5e091a7494408aa3d27bedb80aa01e.jpg",
+      "category": "Chair"
+    },
+    {
+      "id": "302",
+      "name": "Dining Chair",
+      "description": "Stylish dining chair with cushioned seating.",
+      "price": "₹55700",
+      "image": "https://i.pinimg.com/736x/28/df/20/28df205d723546bccd23d6831a5f6d4e.jpg",
+      "category": "Chair"
+    },
+    {
+      "id": "303",
+      "name": "Rocking Chair",
+      "description": "Classic wooden rocking chair for relaxation.",
+      "price": "₹43700",
+      "image": "https://i.pinimg.com/736x/03/77/b4/0377b4a1f0b2c46b3bff1dc495226d06.jpg",
+      "category": "Chair"
+    },
+    {
+      "id": "304",
+      "name": "Accent Chair",
+      "description": "Modern accent chair to elevate your decor.",
+      "price": "₹45700",
+      "image": "https://i.pinimg.com/736x/47/e2/a6/47e2a6ddd3ae3946a2023f2cbdd209d7.jpg",
+      "category": "Chair"
+    },
+    {
+      "id": "305",
+      "name": "Ergonomic modern Chair",
+      "description": "Designed to provide maximum comfort during long working hours",
+      "price": "₹76700",
+      "image": "https://i.pinimg.com/736x/ca/4d/ce/ca4dce9fbf1f521936a4e00112256279.jpg",
+      "category": "Chair"
+    },
+    {
+      "id": "306",
+      "name": "Executive Chair",
+      "description": "A premium chair with high-back support, cushioned seating",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/73/02/ef/7302effeea10864835a7b5d1e8ab0eca.jpg",
+      "category": "Chair"
+    },
+    {
+      "id": "307",
+      "name": "Gaming Chair",
+      "description": "Built for gamers, featuring a high-back design, neck and lumbar pillows",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/66/d6/43/66d6436aab587d113fa21d9ab9f53808.jpg",
+      "category": "Chair"
+    },
+    {
+      "id": "308",
+      "name": "Couch Chair",
+      "description": "Lightweight and portable, these chairs can be folded for easy storage and are ideal for events or small spaces.",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/74/15/ec/7415ecdeafe87632d5fd6c71f9e23900.jpg",
+      "category": "Chair"
+    },
+    {
+      "id": "401",
+      "name": "Coffee Table",
+      "description": "Compact coffee table with storage options.",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/8e/eb/ce/8eebce69f4db480408bfaa22c830b0f5.jpg",
+      "category": "Table"
+    },
+    {
+      "id": "402",
+      "name": "Dining Table",
+      "description": "Spacious dining table for family gatherings.",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/de/41/99/de419931e7ad9093ec5985822cbc03fb.jpg",
+      "category": "Table"
+    },
+    {
+      "id": "403",
+      "name": "Study Table",
+      "description": "Minimalist study table with ample workspace.",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/48/55/14/48551496a01d2ea594d94787eca8208d.jpg",
+      "category": "Table"
+    },
+    {
+      "id": "404",
+      "name": "Console Table",
+      "description": "Elegant console table for entryways.",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/cf/39/77/cf3977c15448d6c78a3dc386e4d92584.jpg",
+      "category": "Table"
+    },
+    {
+      "id": "405",
+      "name": "Side Table",
+      "description": "A compact table placed beside a bed, sofa, or chair, often used to hold lamps, books, or personal items.",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/b3/07/b5/b307b5bd1f48c2d7ac91160c025a22f7.jpg",
+      "category": "Table"
+    },
+    {
+      "id": "406",
+      "name": "Workbench Table",
+      "description": "A durable table used for tasks like crafting, woodworking, or repairing, often featuring a sturdy surface and tool storage.",
+      "price": "$180",
+      "image": "https://i.pinimg.com/736x/39/1a/9a/391a9a68d68cc409691c83495084350d.jpg",
+      "category": "Table"
+    },
+    {
+      "id": "407",
+      "name": "Foldable Table",
+      "description": "A lightweight and portable table that can be folded flat for easy storage, ideal for picnics, parties, or temporary setups.",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/ed/f1/09/edf10923caa43cc549ec12ec669eb206.jpg",
+      "category": "Table"
+    },
+    {
+      "id": "408",
+      "name": "Conference Table",
+      "description": "A large, long table designed for meetings, featuring enough space to seat multiple people, often used in offices.",
+      "price": "₹25700",
+      "image": "https://i.pinimg.com/736x/f9/0a/f1/f90af1aaa0d437aa1ed1674a5c87b107.jpg",
+      "category": "Table"
+    },
+    {
+      "id": "52eb",
+      "name": "Minimlist bed",
+      "description": "Velvet fabric bed",
+      "category": "bed",
+      "image": "https://i.pinimg.com/736x/b4/f0/af/b4f0af2d26ca8619a15bbb46d3f3bf9a.jpg",
+      "price": "₹78000"
+    },
+    {
+      "id": "02d5",
+      "name": "New Product",
+      "description": "our classic latest lounge ",
+      "category": "sofa ",
+      "image": "https://i.pinimg.com/736x/95/2f/6c/952f6cb1a85a42d64fdec2a1dbe8f872.jpg",
+      "price": 67000
+    },
+    {
+      "id": "5a95",
+      "name": "Classic side table",
+      "description": "a new classic side table.latest valeria  lounge",
+      "category": "Table",
+      "image": "https://i.pinimg.com/736x/15/4f/8b/154f8be01a1cce6fa8e43c1f3c9c341b.jpg",
+      "price": 2000
+    },
+    {
+      "id": "7c49",
+      "name": "new  blue sofa",
+      "description": "new lounge",
+      "category": "sofa",
+      "image": "https://i.pinimg.com/736x/78/19/e8/7819e8797424eb54391a3cc2f4ec7853.jpg",
+      "price": 30000
+    },
+    {
+      "id": "c81e",
+      "name": "table new ",
+      "description": "new design ",
+      "category": "Table",
+      "image": "https://imgs.search.brave.com/Q_zUwaCHahFFHpGrmLIa89BI_GF8ol7HO_azUuxce6c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aWtlYS5jb20vdXMv/ZW4vaW1hZ2VzL3By/b2R1Y3RzL2xvZXZi/YWNrZW4tc2lkZS10/YWJsZS1ibHVlX18x/MTgxMzY5X3BlODk2/NjcxX3M1LmpwZz9m/PXM",
+      "price": "5000"
+    }
+  ]
+}
